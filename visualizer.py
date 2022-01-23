@@ -5,7 +5,8 @@
     IMPORTANT:
         This project is still incomplete and here comes your part,
         try to implement one (or more if you can) of the other sorting algorithms,
-        and submit a pull request to the project (you should fork it first).
+        and submit a pull request to the project (you should fork it first),
+        this will help you get in the open source.
         If you don't know how to submit a pull request, don't worry we will do a git/github session sooner,
         and for now, you can send me the code (implementation of the sorting algorithm) so we can discuss it together.
 '''
