@@ -113,7 +113,7 @@ def main():
     draw(window, algorithm_name)
 
     while run:
-        clock.tick(40) # this is the framerate: 40 frames per second
+        clock.tick(30) # this is the framerate: 40 frames per second, this basically controls the speed of the sorting visualization
 
         if sorting:
             try:
